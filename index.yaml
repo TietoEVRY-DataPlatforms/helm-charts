@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  tremor:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-12-27T18:51:32.235855405+01:00"
+    description: Chart to deploy a tremor instance
+    digest: 9baf4390f64a96b28f8a03b58c14ef2abb22fec07335604264490471080a2611
+    icon: https://raw.githubusercontent.com/cncf/artwork/master/projects/tremor/horizontal/color/tremor-horizontal-color.png
+    maintainers:
+    - name: Tremor Team
+    name: tremor
+    urls:
+    - release/tremor-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-12-27T18:51:32.234768287+01:00"
